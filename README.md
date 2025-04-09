@@ -9,7 +9,7 @@ I fetched the data from https://www.nsw.gov.au/education-and-training/resources/
 
 Implementation tool: Decomposition  & Key Influencer
 
-![image](https://github.com/user-attachments/assets/04c2ae36-ba4f-4e64-b918-c9eb4cb91384)
+![image](https://github.com/user-attachments/assets/5fbb3255-df8f-408e-9954-d32631d54623)
 
 # Insights from the analysis:
 -sydney is the most subhurbed area
