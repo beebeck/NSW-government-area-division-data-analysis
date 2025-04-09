@@ -2,7 +2,8 @@
 I fetched the data from https://www.nsw.gov.au/education-and-training/resources/smart-and-skilled-regions where different subhurbs are allocated with their respective postcodes. I carried out the visual analysis and carried out some informative insights based on the table and available number of records there.
 
 # Dashboard:
-![image](https://github.com/user-attachments/assets/94fa87d5-9f15-433d-b22e-27b895a23dd1)
+![image](https://github.com/user-attachments/assets/a12e176f-a6f4-42a0-99ef-f3cbdba0a21e)
+
 
 # Analytical insight based on AI
 
