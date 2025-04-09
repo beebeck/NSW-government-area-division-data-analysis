@@ -7,7 +7,8 @@ I fetched the data from https://www.nsw.gov.au/education-and-training/resources/
 
 # Analytical insight based on AI
 
-Implementation tool: Decomposition tree
+Implementation tool: Decomposition  & Key Influencer
+
 ![image](https://github.com/user-attachments/assets/04c2ae36-ba4f-4e64-b918-c9eb4cb91384)
 
 # Insights from the analysis:
